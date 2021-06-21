@@ -1,2 +1,2 @@
-git is awsome
-new line
+new text
+experiments with amend
